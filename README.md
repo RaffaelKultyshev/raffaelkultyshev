@@ -1,16 +1,46 @@
-## Hi there 👋
+# Raffael Kultyshev
 
-<!--
-**RaffaelKultyshev/raffaelkultyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations Manager @ [Earthian AI](https://earthian.ai) | Robotics Team Recruiting Manager @ Dynamic Intelligence
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+**Operations Manager** @ [Earthian AI](https://earthian.ai)  
+*December 2023 - Present*
+
+**Robotics Team Recruiting Manager** @ Dynamic Intelligence  
+*June 2025 - Present*
+
+---
+
+## Research & Development
+
+Creating datasets for training Vision-Language-Action (VLA) humanoid robots. Developing data processing pipelines and quality assurance systems for robotics training applications.
+
+---
+
+## Education
+
+**Bachelor of Applied Physics**  
+TU Delft | 2024 - 2027
+
+**Activities:**
+- Faculty Student Council (Elected Member)
+- Teaching Assistant for Physics & Calculus Courses
+- Student Ambassador
+- OWee Mentor
+
+---
+
+## Technical Skills
+
+Python, URDF/SRDF, Calculus, Data Processing, Robotics Training Pipelines
+
+---
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/raffael-kultyshev)
+- [Hugging Face](https://huggingface.co/Raffael-Kultyshev)
+- [GitHub](https://github.com/raffaelkultyshev)
