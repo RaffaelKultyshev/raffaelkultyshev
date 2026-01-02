@@ -22,7 +22,7 @@ Creating datasets for training Vision-Language-Action (VLA) humanoid robots. Dev
 
 ## Education
 
-**Bachelor of Applied Physics**  
+**Bachelor of Applied Physics (ongoing)**  
 TU Delft | 2024 - 2027
 
 **Activities:**
